@@ -1,4 +1,4 @@
-name: uno-vc-plain
+name: uno-vc
 channels:
   - conda-forge
 dependencies:
