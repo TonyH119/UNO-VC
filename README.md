@@ -1,4 +1,4 @@
-# UNO-VC plain version
+# UNO-VC
 
 Author: Huang, S.
 
@@ -27,7 +27,7 @@ The validated environment is Python 3.9, PyTorch 1.11.0, and CUDA 11.3.
 
 ```bash
 conda env create -f environment.yml
-conda activate uno-vc-plain
+conda activate uno-vc
 ```
 
 The running WSL2 Docker used for validation has an RTX 3090 with 24 GiB VRAM.
